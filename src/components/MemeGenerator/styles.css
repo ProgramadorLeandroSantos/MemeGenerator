@@ -1,0 +1,74 @@
+.meme-form{
+    text-align: center;
+    margin-top: 8px;
+}
+input{
+    width: 250px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 25px;
+    text-align: center;
+    font-size: 13pt;
+    font-family: 'Times New Roman', Times, serif;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: black 1px 1px 1px 1px;
+    padding: 5px;
+}
+.meme{
+    position: relative;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.meme-pic{
+    max-width: 700px;
+    min-width: 200px;
+    max-height: 400px;
+    min-height: 300px;
+    margin-top: 25px;
+    border-radius: 15px;
+    box-shadow: black 1px 2px 3px 3px;
+}
+.top,.bottom{
+    text-shadow: black 4px 4px;
+    margin: auto;
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22pt;
+    color: azure;
+    position: relative;
+    max-height: 200px;
+}
+.top{
+    bottom: 330px;
+}
+.bottom{
+    top: -130px;
+}
+.button-change-image{
+    text-align: center;
+    height: 25px;
+    background-color:  rgb(128, 0, 128);
+    color: azure;
+    padding: 5px;
+    width: 120px;
+    font-weight: bolder;
+    border-radius: 10px;
+    outline: none;
+    box-shadow: black 1px 1px 1px 1px;
+    cursor: pointer;
+}
+.button-change-image:hover{
+    text-align: center;
+    height: 25px;
+    background-color:  rgb(89, 1, 89);
+    color: azure;
+    padding: 5px;
+    width: 120px;
+    font-weight: bolder;
+    border-radius: 10px;
+    outline: none;
+    box-shadow: black 1px 1px 1px 1px;
+    cursor: pointer;
+}

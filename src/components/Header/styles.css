@@ -1,0 +1,19 @@
+header{
+    background-image: linear-gradient(to bottom, blue, purple);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+.img-logo{
+    max-width: 100px;
+    min-width: 100px;
+    max-height: 100px;
+    min-height: 100px;
+}
+p{
+    font-size: 32pt;
+    color: aliceblue;
+    text-shadow: black 4px 5px 3px;
+    font-weight: bolder;
+}
