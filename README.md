@@ -1,6 +1,6 @@
 # Meme Generator
 
-![meme]()
+![meme](https://github.com/ProgramadorLeandroSantos/MemeGenerator/blob/master/memeexemplo.gif)
 
 ## Como Utilizar?
 1 - Clone ou baixe o Projeto para sua máquina.
