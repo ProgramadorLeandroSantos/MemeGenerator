@@ -1,4 +1,4 @@
-# Meme Generator 0
+# Meme Generator 
 
 ![meme](https://github.com/ProgramadorLeandroSantos/MemeGenerator/blob/master/memeexemplo.gif)
 
