@@ -10,4 +10,4 @@
 
 ##### Objetivo: Estudar  Conceitos no React como: Componentes funcionais e de classes, state, eventos, consumo de API externa, ciclo de vida dos componentes e tratamentos de dados.
 
-###### Tecnologia utilizada : ReactJS 
+###### Tecnologia utilizada : React JS
